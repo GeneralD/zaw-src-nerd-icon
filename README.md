@@ -31,7 +31,3 @@ If you are using macOS, you can install them with command
 ```zsh
 brew install uni2ascii
 ```
-
-## Licence
-
-DTFPL
